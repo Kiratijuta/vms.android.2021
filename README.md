@@ -53,3 +53,8 @@ TBA
 | 16 | 28 Sep | Guess Speaker: `Experience Sharing` |
 |  | ~ | 🚨 Project Presentation: `Complete Work and Demonstration` |
 |  | TBA | Online Final Examination |
+
+
+## License
+
+All materials under *kiratijuta/vms.android.2021* are released under the MIT license. [See LICENSE](https://github.com/Kiratijuta/vms.android.2021/blob/main/LICENSE.md) for details.
