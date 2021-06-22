@@ -30,11 +30,11 @@ TBA
 
 ## Class Outline 🧑🏻‍🏫
 
-| Week | Date | Topic |
-| :---: | :-----: | --- |
-| 1 | 08 Jun | Hello Everyone 🧤 |
-| 2 | 15 Jun | Your First Android Application: `Creating an Android Project` `Navigating in Android Studio` `Laying Out the UI` `Creating String Resources` `Running on the Emulator` `Making Toasts` `Text Inputs and OnClicked Button Action` `Basic Kotlin` |
-| 3 | 22 Jun | Android and Model-View-Controller: `Creating a New Class` `Model-View-Controller and Android` `Adding an Icon (Adding Resources to a Project)` `Referencing Resources in XML` |
+| Week | Date | Topic | Resource |
+| :---: | :-----: | --- | :---: |
+| 1 | 08 Jun | Hello Everyone 🧤 |   |
+| 2 | 15 Jun | Your First Android Application: `Creating an Android Project` `Navigating in Android Studio` `Laying Out the UI` `Creating String Resources` `Running on the Emulator` `Making Toasts` `Text Inputs and OnClicked Button Action` `Basic Kotlin` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C02-MyFirstApp) |
+| 3 | 22 Jun | Android and Model-View-Controller: `Creating a New Class` `Model-View-Controller and Android` `Adding an Icon (Adding Resources to a Project)` `Referencing Resources in XML` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C03-SimpleQuiz) |
 | 4 | 29 Jun | Activity Lifecycle |
 | 5 | 06 Jul | Persisting UI State |
 | 6 | 13 Jul | Displaying Lists with RecyclerView |
