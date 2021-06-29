@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Simple Quiz</string>
+    <string name="loading_question">Question Loading...</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previuos</string>
+
+    <string name="question_1">Is Australia the largest producer of wool in the world?</string>
+    <string name="question_2">Do camels have three sets of eyelids?</string>
+    <string name="question_3">Is China the largest country in the world?</string>
+    <string name="question_4">Is Venus the closest planet to the Sun?</string>
+    <string name="question_5">Spiders have 6 legs. Is it true or false?</string>
+    <string name="question_6">The minimum time taken by a sloth to digest food is 2 weeks.</string>
+    <string name="question_7">World War I took place on 28th July 1945.</string>
+    <string name="question_8">Is it possible to sneeze while asleep?</string>
+    <string name="question_9">5 + 9 = 14</string>
+    <string name="question_10">Watching horror movies does not cause any reaction in your body.</string>
+
+    <string name="correct_toast">Your answer is correct!</string>
+    <string name="incorrect_toast">Your answer is incorrect. Try again!</string>
+
+</resources>
