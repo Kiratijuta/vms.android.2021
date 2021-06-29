@@ -36,11 +36,11 @@ TBA
 | 2 | 15 Jun | Your First Android Application: `Creating an Android Project` `Navigating in Android Studio` `Laying Out the UI` `Creating String Resources` `Running on the Emulator` `Making Toasts` `Text Inputs and OnClicked Button Action` `Basic Kotlin` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C02-MyFirstApp) |
 | 3 | 22 Jun | Android and Model-View-Controller: `Creating a New Class` `Model-View-Controller and Android` `Adding an Icon (Adding Resources to a Project)` `Referencing Resources in XML` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C03-SimpleQuiz) |
 | 4 | 29 Jun | Activity Lifecycle: `Activity States` `Lifecycle Callbacks` `Logging the Activity Lifecycle` `Type of Log Messages` `Logcat` `Creating a Landscape Layout` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C04-SimpleQuiz-V2-Rotating) |
-| 5 | 06 Jul | Persisting UI State |
-| 6 | 13 Jul | Displaying Lists with RecyclerView |
+| 5 | 06 Jul | Persisting UI State: `ViewModel Dependency` `ViewModel Lifecycle and ViewModelProvider` `Saved Instance State` `Debugging: Exception and Stack Traces, Setting Breakpoint, Using Android Lint, Issues with the R class` |
+| 6 | 13 Jul | Your Second Activity |
 |   | ~ | 🚨 Project Presentation: `Proposal and Mock Up` |
-| 7 | 20 Jul | Your Second Activity |
-| 8 | 27 Jul | UI Fragments and the Fragment Manager |
+| 7 | 20 Jul | UI Fragments and the Fragment Manager |
+| 8 | 27 Jul | Displaying Lists with RecyclerView |
 |  | TBA | Online Midterm Examination |
 | 9 | 10 Aug | TBA |
 | 10 | 17 Aug | TBA |
