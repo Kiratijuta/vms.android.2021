@@ -26,7 +26,16 @@ Software development for hand-held devices rapidly grows in the computer industr
 The grades would be officially posted by the Registration Office. All assignments will be returned to students in a timely manner with comments and score.
 
 ## Course Project Overview 🔥
-TBA
+Students are expected to work on a project that produces a **professional-quality** Android application. The aim of the project is to apply/develop the Android application from the course content for real-world scenarios. Work is done individually or in pair. The course project assessment will include project conception, design, and implementation. The assessment details are as follows.
+
+| Tasks | Score | Related Due Date |
+| :--- | :---: | :---: |
+| Proposal and Mock-up | 3% | Jul 13 - 20, 2021 |
+| Prototype and Transition | 3% | Aug 17 - 24, 2021 |
+| Project Difficulty | 6% | Sep 28 - Oct 5, 2021 |
+| Complete Work and Functionality | 28% | Sep 28 - Oct 5, 2021 |
+| Google Play Store Approval (optional) | 5% | Oct 12, 2021 |
+| **Total** | **40%** |
 
 ## Class Outline 🧑🏻‍🏫
 
