@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/appTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:text="@string/app_name"
+        android:textColor="#FF9800"
+        android:textSize="40sp"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:id="@+id/displayedQuestion"
+        android:layout_width="356dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="130dp"
+        android:lines="2"
+        android:singleLine="false"
+        android:text="@string/loading_question"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:layout_gravity="center_horizontal"/>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="200dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="200dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/noButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:backgroundTint="#C30000"
+            android:text="@string/no_button" />
+
+        <Button
+            android:id="@+id/yesButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#0D8800"
+            android:text="@string/yes_button" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="47dp"
+        android:orientation="horizontal"
+        android:layout_gravity="top|right">
+
+        <ImageButton
+            android:id="@+id/previousButton"
+            android:layout_width="wrap_content"
+            android:layout_height="46dp"
+            android:backgroundTint="#2E2E2E"
+            android:src="@drawable/arrow_left"
+            android:contentDescription="@string/previous_button"/>
+
+        <ImageButton
+            android:id="@+id/nextButton"
+            android:layout_width="wrap_content"
+            android:layout_height="46dp"
+            android:backgroundTint="#2E2E2E"
+            android:src="@drawable/arrow_right"
+            android:contentDescription="@string/next_button"/>
+    </LinearLayout>
+
+</FrameLayout>
