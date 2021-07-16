@@ -18,8 +18,8 @@ Software development for hand-held devices rapidly grows in the computer industr
 | Tasks | Score |
 | :--- | :---: | 
 | Assignments | 10% | 
-| Midterm Examination (`Written` `Practical`) | 20% |
-| Final Examination (`Written` `Practical`) | 30% |
+| Practical Midterm Examination | 20% |
+| Practical Final Examination | 30% |
 | Course Project | 40% |
 | **Total** | **100%** |
 
@@ -50,7 +50,7 @@ Students are expected to work on a project that produces a **professional-qualit
 |   | ~ | 🚨 Project Presentation: `Proposal and Mock Up` |
 | 7 | 20 Jul | UI Fragments and the Fragment Manager |
 | 8 | 27 Jul | Displaying Lists with RecyclerView |
-|  | TBA | Online Midterm Examination |
+|  |  03 Aug | Practical Midterm Examination |
 | 9 | 10 Aug | TBA |
 | 10 | 17 Aug | TBA |
 |   | ~ | 🚨 Project Presentation: `Prototype and Transition` |
