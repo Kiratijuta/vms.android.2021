@@ -41,16 +41,17 @@ Students are expected to work on a project that produces a **professional-qualit
 
 | Week | Date | Topic | Resource |
 | :---: | :-----: | --- | :---: |
-| 1 | 08 Jun | Hello Everyone 🧤 |   |
-| 2 | 15 Jun | Your First Android Application: `Creating an Android Project` `Navigating in Android Studio` `Laying Out the UI` `Creating String Resources` `Running on the Emulator` `Making Toasts` `Text Inputs and OnClicked Button Action` `Basic Kotlin` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C02-MyFirstApp) |
-| 3 | 22 Jun | Android and Model-View-Controller: `Creating a New Class` `Model-View-Controller and Android` `Adding an Icon (Adding Resources to a Project)` `Referencing Resources in XML` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C03-SimpleQuiz) |
-| 4 | 29 Jun | Activity Lifecycle: `Activity States` `Lifecycle Callbacks` `Logging the Activity Lifecycle` `Type of Log Messages` `Logcat` `Creating a Landscape Layout` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C04-SimpleQuiz-V2-Rotating) |
-| 5 | 06 Jul | 🛑 Class Cancelled (Content merged with week #6) |
-| 6 | 13 Jul | Persisting UI State & Your Second Activity: `ViewModel Dependency` `ViewModel Lifecycle and ViewModelProvider` `Saved Instance State` `Debugging: Exception and Stack Traces, Setting Breakpoint, Using Android Lint, Issues with the R class` |
+| 1 | 08 Jun | **Hello Everyone** 🧤 |   |
+| 2 | 15 Jun | **Your First Android Application:** `Creating an Android Project` `Navigating in Android Studio` `Laying Out the UI` `Creating String Resources` `Running on the Emulator` `Making Toasts` `Text Inputs and OnClicked Button Action` `Basic Kotlin` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C02-MyFirstApp) |
+| 3 | 22 Jun | **Android and Model-View-Controller:** `Creating a New Class` `Model-View-Controller and Android` `Adding an Icon (Adding Resources to a Project)` `Referencing Resources in XML` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C03-SimpleQuiz) |
+| 4 | 29 Jun | **Activity Lifecycle:** `Activity States` `Lifecycle Callbacks` `Logging the Activity Lifecycle` `Type of Log Messages` `Logcat` `Creating a Landscape Layout` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C04-SimpleQuiz-V2-Rotating) |
+| 5 | 06 Jul | 🛑 **Class Cancelled** (Content merged with week #6) |
+| 6 | 13 Jul | **Persisting UI State:** `ViewModel Dependency` `ViewModel Lifecycle and ViewModelProvider` `Saved Instance State` `Debugging: Exception and Stack Traces, Setting Breakpoint, Using Android Lint, Issues with the R class` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C05-SimpleQuiz-V2-Rotating%20(Persisting%20UI%20State)) |
 |   | ~ | 🚨 Project Presentation: `Proposal and Mock Up` |
-| 7 | 20 Jul | UI Fragments and the Fragment Manager |
-| 8 | 27 Jul | Displaying Lists with RecyclerView |
-|  |  03 Aug | Practical Midterm Examination |
+| 7 | 20 Jul | **Second Activity:** `Declaring activities in the manifest` `Starting an Activity` `Passing Data Between Activities` `Using intent extras` `Sending back an intent` |
+| | 20 Jul | **UI Fragment & Fragment Manager:** `Creating a UI Fragment` `Different types of fragments` `Hosting a UI Fragment` `Adding a UI fragment to the FragmentManager` |
+| 8 | 27 Jul | **Displaying Lists with RecyclerView** |
+|  |  03 Aug | **Practical Midterm Examination** |
 | 9 | 10 Aug | TBA |
 | 10 | 17 Aug | TBA |
 |   | ~ | 🚨 Project Presentation: `Prototype and Transition` |
