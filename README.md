@@ -48,8 +48,8 @@ Students are expected to work on a project that produces a **professional-qualit
 | 5 | 06 Jul | 🛑 **Class Cancelled** (Content merged with week #6) |
 | 6 | 13 Jul | **Persisting UI State:** `ViewModel Dependency` `ViewModel Lifecycle and ViewModelProvider` `Saved Instance State` `Debugging: Exception and Stack Traces, Setting Breakpoint, Using Android Lint, Issues with the R class` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C05-SimpleQuiz-V2-Rotating%20(Persisting%20UI%20State)) |
 |   | ~ | 🚨 Project Presentation: `Proposal and Mock Up` |
-| 7 | 20 Jul | **Second Activity:** `Declaring activities in the manifest` `Starting an Activity` `Passing Data Between Activities` `Using intent extras` `Sending back an intent` |
-| | 20 Jul | **UI Fragment & Fragment Manager:** `Creating a UI Fragment` `Different types of fragments` `Hosting a UI Fragment` `Adding a UI fragment to the FragmentManager` |
+| 7 | 20 Jul | **Second Activity:** `Declaring activities in the manifest` `Starting an Activity` `Passing Data Between Activities` `Using intent extras` `Sending back an intent` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C06-SecondActivity) |
+| | 20 Jul | **UI Fragment & Fragment Manager:** `Creating a UI Fragment` `Different types of fragments` `Hosting a UI Fragment` `Adding a UI fragment to the FragmentManager` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C06-FragmentSample) |
 | 8 | 27 Jul | **Displaying Lists with RecyclerView** |
 |  |  03 Aug | **Practical Midterm Examination** |
 | 9 | 10 Aug | TBA |
