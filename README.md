@@ -50,7 +50,7 @@ Students are expected to work on a project that produces a **professional-qualit
 |   | ~ | 🚨 Project Presentation: `Proposal and Mock Up` |
 | 7 | 20 Jul | **Second Activity:** `Declaring activities in the manifest` `Starting an Activity` `Passing Data Between Activities` `Using intent extras` `Sending back an intent` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C06-SecondActivity) |
 | | 20 Jul | **UI Fragment & Fragment Manager:** `Creating a UI Fragment` `Different types of fragments` `Hosting a UI Fragment` `Adding a UI fragment to the FragmentManager` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C06-FragmentSample) |
-| 8 | 27 Jul | **Displaying Lists with RecyclerView** `Adding RecyclerView` `Item View Layout` ` Implementing a ViewHolder` `Adapter for populating the RecyclerView`|
+| 8 | 27 Jul | **Displaying Lists with RecyclerView** `Adding RecyclerView` `Item View Layout` ` Implementing a ViewHolder` `Adapter for populating the RecyclerView` `ViewHolder OnClickListener` |
 |  |  03 Aug | **Practical Midterm Examination** |
 | 9 | 10 Aug | TBA |
 | 10 | 17 Aug | TBA |
