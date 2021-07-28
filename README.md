@@ -52,17 +52,17 @@ Students are expected to work on a project that produces a **professional-qualit
 | | 20 Jul | **UI Fragment & Fragment Manager:** `Creating a UI Fragment` `Different types of fragments` `Hosting a UI Fragment` `Adding a UI fragment to the FragmentManager` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C06-FragmentSample) |
 | 8 | 27 Jul | **Displaying Lists with RecyclerView** `Adding RecyclerView` `Item View Layout` ` Implementing a ViewHolder` `Adapter for populating the RecyclerView` `ViewHolder OnClickListener` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C07-AntibodyResultList) |
 |  |  03 Aug | **Practical Midterm Examination** |
-| 9 | 10 Aug | TBA |
-| 10 | 17 Aug | TBA |
-|   | ~ | 🚨 Project Presentation: `Prototype and Transition` |
-| 11 | 24 Aug | TBA|
-| 12 | 31 Aug | TBA |
-| 13 | 07 Sep | TBA |
-| 14 | 14 Sep | TBA |
-| 15 | 21 Sep | TBA |
-| 16 | 28 Sep | Guess Speaker: `Experience Sharing` |
-|  | ~ | 🚨 Project Presentation: `Complete Work and Demonstration` |
-|  | TBA | Online Final Examination |
+| 9 | 10 Aug | **More about RecyclerView** |
+| 10 | 17 Aug | **Database and the Room Library** |
+|   | ~ | 🚨 **Project Presentation:** `Prototype and Transition` |
+| 11 | 24 Aug | **HTTP and Background Tasks** |
+| 12 | 31 Aug | **Hands-on Firebase** |
+| 13 | 07 Sep | **Taking Photo, App Dialog, App Bar** |
+| 14 | 14 Sep | **Google Map Activity** |
+| 15 | 21 Sep | **Data Binding and MVVM** |
+| 16 | 28 Sep | **Guess Speaker:** `Experience Sharing` |
+|  | ~ | 🚨 **Project Presentation:** `Complete Work and Demonstration` |
+|  | TBA | **Online Final Examination** |
 
 
 ## License
