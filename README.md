@@ -52,7 +52,7 @@ Students are expected to work on a project that produces a **professional-qualit
 | | 20 Jul | **UI Fragment & Fragment Manager:** `Creating a UI Fragment` `Different types of fragments` `Hosting a UI Fragment` `Adding a UI fragment to the FragmentManager` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C06-FragmentSample) |
 | 8 | 27 Jul | **Displaying Lists with RecyclerView** `Adding RecyclerView` `Item View Layout` ` Implementing a ViewHolder` `Adapter for populating the RecyclerView` `ViewHolder OnClickListener` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C07-AntibodyResultList) |
 |  |  03 Aug | **Practical Midterm Examination** |
-| 9 | 10 Aug | **More about RecyclerView** |
+| 9 | 10 Aug | 🤼 **RecyclerView ViewTypes Challenge** |
 | 10 | 17 Aug | **Database and the Room Library** |
 |   | ~ | 🚨 **Project Presentation:** `Prototype and Transition` |
 | 11 | 24 Aug | **HTTP and Background Tasks** |
