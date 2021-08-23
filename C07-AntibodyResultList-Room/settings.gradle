@@ -1,0 +1,2 @@
+rootProject.name = "Antibody Result List"
+include ':app'
