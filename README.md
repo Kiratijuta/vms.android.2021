@@ -55,7 +55,7 @@ Students are expected to work on a project that produces a **professional-qualit
 | 9 | 10 Aug | 🤼 **RecyclerView ViewTypes Challenge** |
 | 10 | 17 Aug | **Term Project Follow-up** |
 |   | ~ | 🚨 **Project Presentation:** `Prototype and Transition` |
-| 11 | 24 Aug | **Database and the Room Library** `Creating a Database` `Defining Entities` `Database Class` `Type Converter` `Data Access Object (DAO)` `Accessing the Database using the Repository Pattern` `Testing Queries` |
+| 11 | 24 Aug | **Database and the Room Library** `Creating a Database` `Defining Entities` `Database Class` `Type Converter` `Data Access Object (DAO)` `Accessing the Database using the Repository Pattern` `Testing Queries` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C09-AntibodyResultList-Room) |
 | 11 | 31 Aug | **HTTP and Background Tasks** |
 | 12 | 07 Sep | **Hands-on Firebase** |
 | 13 | 14 Sep | **Taking Photo, App Dialog, App Bar** |
