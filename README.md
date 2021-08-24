@@ -53,13 +53,14 @@ Students are expected to work on a project that produces a **professional-qualit
 | 8 | 27 Jul | **Displaying Lists with RecyclerView** `Adding RecyclerView` `Item View Layout` ` Implementing a ViewHolder` `Adapter for populating the RecyclerView` `ViewHolder OnClickListener` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C07-AntibodyResultList) |
 |  |  03 Aug | **Practical Midterm Examination** |
 | 9 | 10 Aug | 🤼 **RecyclerView ViewTypes Challenge** |
-| 10 | 17 Aug | **Database and the Room Library** |
+| 10 | 17 Aug | **Term Project Follow-up** |
 |   | ~ | 🚨 **Project Presentation:** `Prototype and Transition` |
-| 11 | 24 Aug | **HTTP and Background Tasks** |
-| 12 | 31 Aug | **Hands-on Firebase** |
-| 13 | 07 Sep | **Taking Photo, App Dialog, App Bar** |
-| 14 | 14 Sep | **Google Map Activity** |
-| 15 | 21 Sep | **Data Binding and MVVM** |
+| 11 | 24 Aug | **Database and the Room Library** `Creating a Database` `Defining Entities` `Database Class` `Type Converter` `Data Access Object (DAO)` `Accessing the Database using the Repository Pattern` `Testing Queries` |
+| 11 | 31 Aug | **HTTP and Background Tasks** |
+| 12 | 07 Sep | **Hands-on Firebase** |
+| 13 | 14 Sep | **Taking Photo, App Dialog, App Bar** |
+| 14 | 21 Sep | **Google Map Activity** |
+| | 21 Sep | **Data Binding and MVVM** |
 | 16 | 28 Sep | **Guess Speaker:** `Experience Sharing` |
 |  | ~ | 🚨 **Project Presentation:** `Complete Work and Demonstration` |
 |  | TBA | **Online Final Examination** |
