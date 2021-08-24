@@ -22,26 +22,32 @@ class MainActivity : AppCompatActivity() {
         student_list.layoutManager = LinearLayoutManager(this)
         student_list.adapter = StudentAdapter(emptyList())
 
+        //sampleStudents()
         getStudentFromDatabase()
     }
 
-    /*
-    private fun sampleStudents(): List<Student> {
-        val students = mutableListOf<Student>()
-        for (i in 1 until 100) {
+
+    private fun sampleStudents() {
+        for (i in 1 until 5) {
             val student = Student()
             student.name = "STUDENT ${i}"
             student.testResult = (1..2).random() % 2 == 0
-            students += student
+
+            // Add New Student Example
+            StudentRepository.get().addStudent(student)
         }
-        return students
-    }*/
+    }
 
     private fun getStudentFromDatabase() {
         StudentRepository.get().getStudents().observe(
             this, Observer { students ->
                 students?.let {
                     student_list.adapter = StudentAdapter(students)
+
+                    // Update Student Example
+//                    var firstStudent = students[0]
+//                    firstStudent.name = "Fair"
+//                    StudentRepository.get().updateStudent(firstStudent)
                 }
             }
         )
