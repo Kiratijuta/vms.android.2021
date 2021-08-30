@@ -56,7 +56,7 @@ Students are expected to work on a project that produces a **professional-qualit
 | 10 | 17 Aug | **Term Project Follow-up** |
 |   | ~ | 🚨 **Project Presentation:** `Prototype and Transition` |
 | 11 | 24 Aug | **Database and the Room Library** `Creating a Database` `Defining Entities` `Database Class` `Type Converter` `Data Access Object (DAO)` `Accessing the Database using the Repository Pattern` `Testing Queries` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C09-AntibodyResultList-Room) |
-| 11 | 31 Aug | **HTTP and Background Tasks** |
+| 11 | 31 Aug | **HTTP and Background Tasks** `Networking Basics with Retrofit` `Defining an API Interface` `Web Request` `Network Permission` `Fetching JSON` `Deserializing JSON into Model Object` |
 | 12 | 07 Sep | **Hands-on Firebase** |
 | 13 | 14 Sep | **Taking Photo, App Dialog, App Bar** |
 | 14 | 21 Sep | **Google Map Activity** |
