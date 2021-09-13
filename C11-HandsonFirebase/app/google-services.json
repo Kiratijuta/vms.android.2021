@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173037278719",
+    "firebase_url": "https://hands-on-firebase-6715c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hands-on-firebase-6715c",
+    "storage_bucket": "hands-on-firebase-6715c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173037278719:android:20287b1c5d2e04772ac3ca",
+        "android_client_info": {
+          "package_name": "vms.android.handsonfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173037278719-70pdafsc66jif0d7sbvhsfoakh5rsda4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpfaWuE2gfI8fCUNd22phJudqmJ9Bfxk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173037278719-70pdafsc66jif0d7sbvhsfoakh5rsda4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
