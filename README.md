@@ -57,10 +57,10 @@ Students are expected to work on a project that produces a **professional-qualit
 |   | ~ | 🚨 **Project Presentation:** `Prototype and Transition` |
 | 11 | 24 Aug | **Database and the Room Library** `Creating a Database` `Defining Entities` `Database Class` `Type Converter` `Data Access Object (DAO)` `Accessing the Database using the Repository Pattern` `Testing Queries` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C09-AntibodyResultList-Room) |
 | 11 | 31 Aug | **HTTP and Background Tasks** `Networking Basics with Retrofit` `Defining an API Interface` `Web Request` `Network Permission` `Fetching JSON` `Deserializing JSON into Model Object` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C10-SparkApi) |
-| 12 | 07 Sep | **Hands-on Firebase** |
-| 13 | 14 Sep | **Taking Photo, App Dialog, App Bar** |
+| 12 | 07 Sep | **Hands-on Firebase** | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C11-HandsonFirebase) |
+| 13 | 14 Sep | **Taking Photo, App Dialog, App Bar** `Creating the menu` `Responding to menu selections` `Using the Android Asset Studio` `Creating a DialogFragment` `Showing a DialogFragment` `DatePickerDialog.OnDateSetListener` `Sending data to Activity from Fragment`|[📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C12-MyPhoto) |
 | 14 | 21 Sep | **Google Map Activity** |
-| | 21 Sep | **Data Binding and MVVM** |
+| | 21 Sep | **Data Binding and MVVM** (Content merged with week #16) |
 | 16 | 28 Sep | **Guess Speaker:** `Experience Sharing` |
 |  | ~ | 🚨 **Project Presentation:** `Complete Work and Demonstration` |
 |  | TBA | **Online Final Examination** |
