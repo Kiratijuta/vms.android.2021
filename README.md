@@ -63,7 +63,7 @@ Students are expected to work on a project that produces a **professional-qualit
 | | 21 Sep | **Data Binding and MVVM** (Content merged with week #16) |
 | 16 | 28 Sep | **Guess Speaker:** `Experience Sharing` |
 |  | ~ | 🚨 **Project Presentation:** `Complete Work and Demonstration` |
-|  | TBA | **Online Final Examination** |
+|  | 07 Oct | **Online Final Examination** |
 
 
 ## License
