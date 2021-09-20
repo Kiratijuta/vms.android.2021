@@ -45,7 +45,7 @@ Students are expected to work on a project that produces a **professional-qualit
 | 2 | 15 Jun | **Your First Android Application:** `Creating an Android Project` `Navigating in Android Studio` `Laying Out the UI` `Creating String Resources` `Running on the Emulator` `Making Toasts` `Text Inputs and OnClicked Button Action` `Basic Kotlin` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C02-MyFirstApp) |
 | 3 | 22 Jun | **Android and Model-View-Controller:** `Creating a New Class` `Model-View-Controller and Android` `Adding an Icon (Adding Resources to a Project)` `Referencing Resources in XML` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C03-SimpleQuiz) |
 | 4 | 29 Jun | **Activity Lifecycle:** `Activity States` `Lifecycle Callbacks` `Logging the Activity Lifecycle` `Type of Log Messages` `Logcat` `Creating a Landscape Layout` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C04-SimpleQuiz-V2-Rotating) |
-| 5 | 06 Jul | 🛑 **Class Cancelled** (Content merged with week #6) |
+| 5 | 06 Jul | 🛑 **Class Cancelled** (Content moved to week #6) |
 | 6 | 13 Jul | **Persisting UI State:** `ViewModel Dependency` `ViewModel Lifecycle and ViewModelProvider` `Saved Instance State` `Debugging: Exception and Stack Traces, Setting Breakpoint, Using Android Lint, Issues with the R class` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C05-SimpleQuiz-V2-Rotating%20(Persisting%20UI%20State)) |
 |   | ~ | 🚨 Project Presentation: `Proposal and Mock Up` |
 | 7 | 20 Jul | **Second Activity:** `Declaring activities in the manifest` `Starting an Activity` `Passing Data Between Activities` `Using intent extras` `Sending back an intent` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C06-SecondActivity) |
@@ -60,7 +60,7 @@ Students are expected to work on a project that produces a **professional-qualit
 | 12 | 07 Sep | **Hands-on Firebase** | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C11-HandsonFirebase) |
 | 13 | 14 Sep | **Taking Photo, App Dialog, App Bar** `Creating the menu` `Responding to menu selections` `Using the Android Asset Studio` `Creating a DialogFragment` `Showing a DialogFragment` `DatePickerDialog.OnDateSetListener` `Sending data to Activity from Fragment`|[📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C12-MyPhoto) |
 | 14 | 21 Sep | **Google Map Activity** |
-| | 21 Sep | **Data Binding and MVVM** (Content merged with week #16) |
+| | 21 Sep | **Data Binding and MVVM** (Content moved with week #16) |
 | 16 | 28 Sep | **Guess Speaker:** `Experience Sharing` |
 |  | ~ | 🚨 **Project Presentation:** `Complete Work and Demonstration` |
 |  | 07 Oct | **Online Final Examination** |
