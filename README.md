@@ -21,7 +21,9 @@ Software development for hand-held devices rapidly grows in the computer industr
 | Practical Midterm Examination | 20% |
 | Practical Final Examination | 30% |
 | Course Project | 40% |
-| **Total** | **100%** |
+| AU Map | 10% |
+| **Possible Score** | **110%** |
+| **Grading Score** | **100%** |
 
 The grades would be officially posted by the Registration Office. All assignments will be returned to students in a timely manner with comments and score.
 
@@ -59,7 +61,7 @@ Students are expected to work on a project that produces a **professional-qualit
 | 11 | 31 Aug | **HTTP and Background Tasks** `Networking Basics with Retrofit` `Defining an API Interface` `Web Request` `Network Permission` `Fetching JSON` `Deserializing JSON into Model Object` | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C10-SparkApi) |
 | 12 | 07 Sep | **Hands-on Firebase** | [📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C11-HandsonFirebase) |
 | 13 | 14 Sep | **Taking Photo, App Dialog, App Bar** `Creating the menu` `Responding to menu selections` `Using the Android Asset Studio` `Creating a DialogFragment` `Showing a DialogFragment` `DatePickerDialog.OnDateSetListener` `Sending data to Activity from Fragment`|[📂](https://github.com/Kiratijuta/vms.android.2021/tree/main/C12-MyPhoto) |
-| 14 | 21 Sep | **Google Map Activity** |
+| 14 | 21 Sep | 🤼 **Google Map Challenge** |
 | | 21 Sep | **Data Binding and MVVM** (Content moved with week #16) |
 | 16 | 28 Sep | **Guess Speaker:** `Experience Sharing` |
 |  | ~ | 🚨 **Project Presentation:** `Complete Work and Demonstration` |
